@@ -45,7 +45,3 @@ Melhorar validação do operador
 
 
 
-
-
-
-Perguntar ao ChatGPT
