@@ -44,4 +44,3 @@ Melhorar validação do operador
 
 
 
-
